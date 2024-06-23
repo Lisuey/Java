@@ -1,2 +1,4 @@
-package desafios.d12reciclajeans;public class Menu {
+package desafios.d12reciclajeans;
+
+public class Menu {
 }

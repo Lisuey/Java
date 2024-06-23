@@ -1,4 +1,4 @@
-package desafios.d11indianajeans;
+package desafios.d12reciclajeans;
 
 import java.util.ArrayList;
 

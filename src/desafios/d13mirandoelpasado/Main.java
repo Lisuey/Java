@@ -1,2 +1,4 @@
-package desafios.d13mirandoelpasado;public class Main {
+package desafios.d13mirandoelpasado;
+
+public class Main {
 }
