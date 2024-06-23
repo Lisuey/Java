@@ -4,53 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="284e74cd-b4c7-4e71-99df-dc281030249c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/clases/Clase10/CiclosAnidados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Clase13/ejercicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/Clase9/AsteriscosYPuntos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clases/clase29/Listas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafios/d10AutomotoraExcepciones/LibroVenta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafios/d4Patrones/Patrones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafios/d4Patrones/PatronesAnidados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafios/d5OperandoConArreglos/MultiplosDeTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafios/d5OperandoConArreglos/Promedios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafios/d5OperandoConArreglos/SmartWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafios/d5OperandoConArreglos/Visitas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafios/d6EscrituraYLectura/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafios/d9Automotora/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafios/d9Automotora/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafios/d9Automotora/MainAutomotora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafios/d9Automotora/MiniBus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafios/d9Automotora/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafios/d9Automotora/Taxi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafios/d9Automotora/Tienda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafios/d9Automotora/Vehiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafios/d9Automotora/Vendedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reforzamiento/Arreglos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reforzamiento/Java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/Clase9/SoloPuntos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/Clase9/SoloPuntos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D1OperacionesAritmeticas/Resistencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafios/d1OperacionesAritmeticas/Resistencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D1OperacionesAritmeticas/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafios/d1OperacionesAritmeticas/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D2QuienEsMayor/Fechas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafios/d2QuienEsMayor/Fechas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D2QuienEsMayor/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D3WhilePorDoWhile/CambiarWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafios/d3WhilePorDoWhile/CambiarWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D3WhilePorDoWhile/SecuenciaDeFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafios/d3WhilePorDoWhile/SecuenciaDeFibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D3WhilePorDoWhile/SoloPares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafios/d3WhilePorDoWhile/SoloPares.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D3WhilePorDoWhile/SoloPares2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafios/d3WhilePorDoWhile/SoloPares2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D3WhilePorDoWhile/SumaImpar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafios/d3WhilePorDoWhile/SumaImpar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D3WhilePorDoWhile/SumaImparLimite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafios/d3WhilePorDoWhile/SumaImparLimite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D9Automotora/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafios/d10AutomotoraExcepciones/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D9Automotora/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafios/d10AutomotoraExcepciones/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D9Automotora/MainAutomotora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafios/d10AutomotoraExcepciones/MainAutomotora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D9Automotora/MiniBus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafios/d10AutomotoraExcepciones/MiniBus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D9Automotora/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafios/d10AutomotoraExcepciones/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D9Automotora/Taxi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafios/d10AutomotoraExcepciones/Taxi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D9Automotora/Tienda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafios/d10AutomotoraExcepciones/Tienda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D9Automotora/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafios/d10AutomotoraExcepciones/Vehiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/D9Automotora/Vendedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafios/d10AutomotoraExcepciones/Vendedor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafios/numeromayor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/numeromayor/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="284e74cd-b4c7-4e71-99df-dc281030249c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,7 +149,7 @@
       <workItem from="1718314243148" duration="413000" />
       <workItem from="1718314670170" duration="13073000" />
       <workItem from="1718670505322" duration="158000" />
-      <workItem from="1719101131107" duration="18133000" />
+      <workItem from="1719101131107" duration="18601000" />
     </task>
     <servers />
   </component>
